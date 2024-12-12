@@ -26,13 +26,9 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 - **Pruebas de hipótesis:** Comparación de calificaciones promedio entre plataformas y géneros.
 
 ## Conclusiones y recomendaciones
-### Dinámica de ventas por región:
-- Norteamérica y Europa prefieren juegos de acción y disparos en consolas como Xbox y PlayStation.
-- Japón, en cambio, favorece juegos de rol en plataformas portátiles como Nintendo 3DS.
-
-### Efecto de las reseñas:
-- Las puntuaciones de críticos tienen una correlación moderada positiva con las ventas (coeficiente ≈ 0.41).
-- Las puntuaciones de usuarios presentan correlación casi nula, lo que sugiere que los consumidores priorizan otras métricas al elegir juegos.
+### Dinámica de ventas por región y Efecto de las reseñas:
+- Norteamérica y Europa prefieren juegos de acción y disparos en consolas como Xbox y PlayStation. Mientras que Japón favorece juegos de rol en plataformas portátiles como Nintendo 3DS.
+- Las puntuaciones de críticos tienen una correlación moderada positiva con las ventas (coeficiente ≈ 0.41). Mientras que las puntuaciones de usuarios presentan correlación casi nula, lo que sugiere que los consumidores priorizan las puntuaciones de los críticos y otras métricas al elegir juegos.
 
 ### Pruebas de hipótesis:
 - Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son iguales.
